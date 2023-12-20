@@ -1,6 +1,7 @@
 #ifndef UNTITLED_PROGONKA_H
 #define UNTITLED_PROGONKA_H
 
+#include <iostream>
 
 class progonka {
     void solveMatrix(int n, double *a, double *b, double *c, double *f,
